@@ -1,2 +1,1 @@
-# Uncertainty-Quantification-Code
-Uncertainty Quantification Code
+基于19年的工作[论文出处](https://www.sciencedirect.com/science/article/abs/pii/S0950705119301558)，在此给出了论文中所述公式的代码，并提供了在分类任务上的应用示例，有工作已经证明在该方法在语义分割任务中的适用性，因此可以用来量化分割模型的不确定性，在任何最后一个卷积层的卷积核为1x1大小的分割模型上，均可以使用该方法来进行逐像素点的不确定型性量化。
